@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ooppet\ooppet\bin\Debug\netcoreapp3.1\ooppet.exe
+C:\Users\opilane\source\repos\ooppet\ooppet\bin\Debug\netcoreapp3.1\ooppet.deps.json
+C:\Users\opilane\source\repos\ooppet\ooppet\bin\Debug\netcoreapp3.1\ooppet.runtimeconfig.json
+C:\Users\opilane\source\repos\ooppet\ooppet\bin\Debug\netcoreapp3.1\ooppet.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ooppet\ooppet\bin\Debug\netcoreapp3.1\ooppet.dll
+C:\Users\opilane\source\repos\ooppet\ooppet\bin\Debug\netcoreapp3.1\ooppet.pdb
+C:\Users\opilane\source\repos\ooppet\ooppet\obj\Debug\netcoreapp3.1\ooppet.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ooppet\ooppet\obj\Debug\netcoreapp3.1\ooppet.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ooppet\ooppet\obj\Debug\netcoreapp3.1\ooppet.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ooppet\ooppet\obj\Debug\netcoreapp3.1\ooppet.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ooppet\ooppet\obj\Debug\netcoreapp3.1\ooppet.dll
+C:\Users\opilane\source\repos\ooppet\ooppet\obj\Debug\netcoreapp3.1\ooppet.pdb
+C:\Users\opilane\source\repos\ooppet\ooppet\obj\Debug\netcoreapp3.1\ooppet.genruntimeconfig.cache
